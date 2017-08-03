@@ -1,4 +1,0 @@
-DownloadAnywhere
-================
-
-Chrome Extenstion
